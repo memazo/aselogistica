@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Aselogística"
 theme = "hugo-creative-theme"
@@ -73,7 +73,7 @@ googleAnalytics = ""
             description = "Permisos y notas técnicas, clareos, nacionalización, transporte interno"
 			
 		[[params.services.list]]
-            icon = "fa-dog"
+            icon = "fa-cat"
             title = "Transporte de mascotas"
             description = "Transporte internacional de mascotas desde y hacia Costa Rica"
 
