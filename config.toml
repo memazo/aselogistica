@@ -1,6 +1,6 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "Aselogística"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -29,53 +29,53 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "ASELOGÍSTICA"
 
 		[params.navigation.links]
-			about     = "About"
-			services  = "Services"
-			portfolio = "Portfolio"
-			contact   = "Contact"
+			about     = "Nosotros"
+			services  = "Servicios"
+			portfolio = "Portafolio"
+			contact   = "Contacto"
 
 
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Your awesome slogan"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
-		buttonText = "Find out more"
+		slogan     = "ASELOGÍSTICA"
+		subtitle   = "Servicio de carga internacional desde y hacia Costa Rica"
+		buttonText = "Conózcanos"
 
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
-		description = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Praesentium similique eos eligendi error veritatis harum, sed aliquid totam, quam minus neque enim est architecto, ad. Maiores, aliquid, vitae!"
-		buttonText  = "Get started!"
+		headline    = "NUESTRA EMPRESA"
+		description = "[Somos una empresa dedicada al transporte aéreo de carga desde y hacia Costa Rica.](//google.com) Nuestro objetivo es escuchar a nuestros  clientes, entender sus necesidades, y trabajar día a día con base en ellas y de esta forma facilitar su logística y el éxito de sus operaciones"
+		buttonText  = "Comencemos"
 
 
 	# Service section
 	[params.services]
-		headline = "At your service"
+		headline = "NUESTROS SERVICIOS"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            icon = "fa-plane"
+            title = "Exportación"
+            description = "General: desde etiquetas hasta efectos personales, repuestos o material promocional. Perecederos: flores, frutas, plantas ornamentales. Mercancías peligrosas."
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			icon = "fa-check-circle"
+			title = "Permisos"
+			description = "Notas técnicas, transporte normal y caucionado, embalajes"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
-
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            icon = "fa-flag"
+            title = "Importación"
+            description = "Permisos y notas técnicas, clareos, nacionalización, transporte interno"
+			
+		[[params.services.list]]
+            icon = "fa-dog"
+            title = "Transporte de mascotas"
+            description = "Transporte internacional de mascotas desde y hacia Costa Rica"
 
 
     # Portfolio modals
@@ -95,10 +95,10 @@ googleAnalytics = ""
 
 	# Contact section
 	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		headline = "Contáctenos"
+		description = "Póngase en contacto con nosotros con gusto lo atenderemos"
+		phone = "506 8859-8455"
+		email = "servicioalcliente@aselogistica.com"
 
 	# Google Maps section
 	# [params.location]
