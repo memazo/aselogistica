@@ -73,7 +73,7 @@ googleAnalytics = ""
             description = "Permisos y notas técnicas, clareos, nacionalización, transporte interno"
 			
 		[[params.services.list]]
-            icon = "fa-cat"
+            icon = "fa-yarn"
             title = "Transporte de mascotas"
             description = "Transporte internacional de mascotas desde y hacia Costa Rica"
 
