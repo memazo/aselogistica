@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Aselogística"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
+enableEmoji = true
 
 [params]
 
@@ -20,8 +21,8 @@ googleAnalytics = ""
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Your name"
-	description = "Your description"
+	name = "Aselogística"
+	description = "Servicios de importación y exportación en Costa Rica"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -50,7 +51,7 @@ googleAnalytics = ""
 	[params.about]
 		headline    = "NUESTRA EMPRESA"
 		description = "[Somos una empresa dedicada al transporte aéreo de carga desde y hacia Costa Rica.](//google.com) Nuestro objetivo es escuchar a nuestros  clientes, entender sus necesidades, y trabajar día a día con base en ellas y de esta forma facilitar su logística y el éxito de sus operaciones"
-		buttonText  = "Comencemos"
+		
 
 
 	# Service section
@@ -73,7 +74,7 @@ googleAnalytics = ""
             description = "Permisos y notas técnicas, clareos, nacionalización, transporte interno"
 			
 		[[params.services.list]]
-            icon = "fa-plane"
+            icon = "fa-heart"
             title = "Transporte de mascotas"
             description = "Transporte internacional de mascotas desde y hacia Costa Rica"
 
@@ -87,11 +88,10 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "Estamos para servirle"
 
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+		
+			
 
 	# Contact section
 	[params.contact]
