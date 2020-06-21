@@ -44,8 +44,8 @@ enableEmoji = true
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = ""
 		subtitle   = ""
-		buttonText = "Conózcanos"
-
+		buttonText = "V"
+o
 
 	# About section
 	[params.about]
