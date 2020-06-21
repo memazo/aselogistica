@@ -42,8 +42,8 @@ enableEmoji = true
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "ASELOGÍSTICA"
-		subtitle   = "Servicio de carga internacional desde y hacia Costa Rica"
+		slogan     = ""
+		subtitle   = ""
 		buttonText = "Conózcanos"
 
 
