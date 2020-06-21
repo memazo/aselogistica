@@ -61,22 +61,22 @@ enableEmoji = true
         [[params.services.list]]
             icon = "fa-plane"
             title = "Exportación"
-            description = "General: desde etiquetas hasta efectos personales, repuestos o material promocional. Perecederos: flores, frutas, plantas ornamentales. Mercancías peligrosas."
+            description = "Carga general, carga perecedera, mercancías peligrosas, animales vivos."
 
         [[params.services.list]]
 			icon = "fa-check-circle"
-			title = "Permisos"
-			description = "Notas técnicas, transporte normal y caucionado, embalajes"
+			title = "Agencia de aduanas"
+			description = "Notas técnicas, tratados de libre comercio, regímenes especiales, permisos, asesoría técnica."
 
 		[[params.services.list]]
             icon = "fa-flag"
             title = "Importación"
-            description = "Permisos y notas técnicas, clareos, nacionalización, transporte interno"
+            description = "Clareos, desalmacenajes, importaciones temporales, nacionalización."
 			
 		[[params.services.list]]
             icon = "fa-heart"
-            title = "Transporte de mascotas"
-            description = "Transporte internacional de mascotas desde y hacia Costa Rica"
+            title = "Embalajes y transporte local"
+            description = "Certificado, mudanzas, cargas sobredimensionadas, transporte local y caucionado."
 
 
     # Portfolio modals
